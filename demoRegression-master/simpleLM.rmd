@@ -55,3 +55,5 @@ plot(LENGTH~HEADWTH,data=bears)
 abline(bHEADWTH)
 summary.lm(bHEADWTH)
 ```
+
+After comparing the neck model, the AGE,HEADLEN, and HEADWTH model in order from biggest to smallest is HEADLEN - 0.8434, NECK-0.7476, HEADWTH-0.5321 and AGE-0.5073.
